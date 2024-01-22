@@ -1,8 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import Video5 from '../../videos/ironvideo1.mp4';
-import Video2 from '../../videos/ironvideo2.mp4';
-import Video3 from '../../videos/ironvideo3.mp4';
-import Video4 from '../../videos/ironvideo4.mp4';
 import Video1 from '../../videos/wrtrailer.mp4';
 import AppStoreImage from '../../images/appstore2.svg'; 
 
