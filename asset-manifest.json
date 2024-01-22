@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/WRLandingP/static/css/main.71e0323a.chunk.css",
+    "main.js": "/WRLandingP/static/js/main.d5ae259b.chunk.js",
+    "main.js.map": "/WRLandingP/static/js/main.d5ae259b.chunk.js.map",
+    "runtime-main.js": "/WRLandingP/static/js/runtime-main.df20a8fe.js",
+    "runtime-main.js.map": "/WRLandingP/static/js/runtime-main.df20a8fe.js.map",
+    "static/js/2.7a070b57.chunk.js": "/WRLandingP/static/js/2.7a070b57.chunk.js",
+    "static/js/2.7a070b57.chunk.js.map": "/WRLandingP/static/js/2.7a070b57.chunk.js.map",
+    "index.html": "/WRLandingP/index.html",
+    "static/css/main.71e0323a.chunk.css.map": "/WRLandingP/static/css/main.71e0323a.chunk.css.map",
+    "static/js/2.7a070b57.chunk.js.LICENSE.txt": "/WRLandingP/static/js/2.7a070b57.chunk.js.LICENSE.txt",
+    "static/media/appstore2.8c4986ee.svg": "/WRLandingP/static/media/appstore2.8c4986ee.svg",
+    "static/media/environmentaltruck.1c1dc1bf.png": "/WRLandingP/static/media/environmentaltruck.1c1dc1bf.png",
+    "static/media/firstaid.74f12884.jpeg": "/WRLandingP/static/media/firstaid.74f12884.jpeg",
+    "static/media/hydrovactruck.774424c8.png": "/WRLandingP/static/media/hydrovactruck.774424c8.png",
+    "static/media/level1.c1c79e2c.png": "/WRLandingP/static/media/level1.c1c79e2c.png",
+    "static/media/level2.c133970a.png": "/WRLandingP/static/media/level2.c133970a.png",
+    "static/media/level3.1e31d694.png": "/WRLandingP/static/media/level3.1e31d694.png",
+    "static/media/marineassetretrieval.c81871ed.png": "/WRLandingP/static/media/marineassetretrieval.c81871ed.png",
+    "static/media/pipelineservices.e03dc250.jpeg": "/WRLandingP/static/media/pipelineservices.e03dc250.jpeg",
+    "static/media/streetsweeper.587bb38e.png": "/WRLandingP/static/media/streetsweeper.587bb38e.png",
+    "static/media/wrtrailer.mp4": "/WRLandingP/static/media/wrtrailer.6cdbcf88.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df20a8fe.js",
+    "static/js/2.7a070b57.chunk.js",
+    "static/css/main.71e0323a.chunk.css",
+    "static/js/main.d5ae259b.chunk.js"
+  ]
+}
