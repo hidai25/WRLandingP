@@ -1,6 +1,4 @@
-
-This is the official page of the WristRoad Apple watch game.
-
-This website adress is (https://wristroad.com/)
+WRLandingP
+This repo is the landing page of the wrist road game app
 
 
