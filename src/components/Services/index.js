@@ -1,13 +1,8 @@
 import React from 'react';
-import Icon1 from '../../images/hydrovactruck.png';
-import Icon2 from '../../images/marineassetretrieval.png';
-import Icon3 from '../../images/pipelineservices.jpeg';
 import level1 from '../../images/level1.png';
 import level2 from '../../images/level2.png';
 import level3 from '../../images/level3.png';
-import Icon4 from '../../images/firstaid.jpeg';
-import Icon5 from '../../images/streetsweeper.png';
-import Icon6 from '../../images/environmentaltruck.png';
+
 import { ServicesContainer,
         ServicesH1,
         ServicesWrapper,
