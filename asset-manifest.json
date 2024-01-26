@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/WRLandingP/static/css/main.71e0323a.chunk.css",
-    "main.js": "/WRLandingP/static/js/main.c3188315.chunk.js",
-    "main.js.map": "/WRLandingP/static/js/main.c3188315.chunk.js.map",
-    "runtime-main.js": "/WRLandingP/static/js/runtime-main.34510c69.js",
-    "runtime-main.js.map": "/WRLandingP/static/js/runtime-main.34510c69.js.map",
-    "static/js/2.7b0d5f2a.chunk.js": "/WRLandingP/static/js/2.7b0d5f2a.chunk.js",
-    "static/js/2.7b0d5f2a.chunk.js.map": "/WRLandingP/static/js/2.7b0d5f2a.chunk.js.map",
-    "index.html": "/WRLandingP/index.html",
-    "static/css/main.71e0323a.chunk.css.map": "/WRLandingP/static/css/main.71e0323a.chunk.css.map",
-    "static/js/2.7b0d5f2a.chunk.js.LICENSE.txt": "/WRLandingP/static/js/2.7b0d5f2a.chunk.js.LICENSE.txt",
-    "static/media/appstore2.8c4986ee.svg": "/WRLandingP/static/media/appstore2.8c4986ee.svg",
-    "static/media/level1.c1c79e2c.png": "/WRLandingP/static/media/level1.c1c79e2c.png",
-    "static/media/level2.c133970a.png": "/WRLandingP/static/media/level2.c133970a.png",
-    "static/media/level3.1e31d694.png": "/WRLandingP/static/media/level3.1e31d694.png",
-    "static/media/wrtrailer.mp4": "/WRLandingP/static/media/wrtrailer.6cdbcf88.mp4"
+    "main.css": "/static/css/main.71e0323a.chunk.css",
+    "main.js": "/static/js/main.c3188315.chunk.js",
+    "main.js.map": "/static/js/main.c3188315.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aa1e989e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aa1e989e.js.map",
+    "static/js/2.6208ebd3.chunk.js": "/static/js/2.6208ebd3.chunk.js",
+    "static/js/2.6208ebd3.chunk.js.map": "/static/js/2.6208ebd3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.71e0323a.chunk.css.map": "/static/css/main.71e0323a.chunk.css.map",
+    "static/js/2.6208ebd3.chunk.js.LICENSE.txt": "/static/js/2.6208ebd3.chunk.js.LICENSE.txt",
+    "static/media/appstore2.8c4986ee.svg": "/static/media/appstore2.8c4986ee.svg",
+    "static/media/level1.c1c79e2c.png": "/static/media/level1.c1c79e2c.png",
+    "static/media/level2.c133970a.png": "/static/media/level2.c133970a.png",
+    "static/media/level3.1e31d694.png": "/static/media/level3.1e31d694.png",
+    "static/media/wrtrailer.mp4": "/static/media/wrtrailer.6cdbcf88.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.34510c69.js",
-    "static/js/2.7b0d5f2a.chunk.js",
+    "static/js/runtime-main.aa1e989e.js",
+    "static/js/2.6208ebd3.chunk.js",
     "static/css/main.71e0323a.chunk.css",
     "static/js/main.c3188315.chunk.js"
   ]
