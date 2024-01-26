@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/WRLandingP/static/css/main.71e0323a.chunk.css",
-    "main.js": "/WRLandingP/static/js/main.5984dbce.chunk.js",
-    "main.js.map": "/WRLandingP/static/js/main.5984dbce.chunk.js.map",
+    "main.js": "/WRLandingP/static/js/main.c3188315.chunk.js",
+    "main.js.map": "/WRLandingP/static/js/main.c3188315.chunk.js.map",
     "runtime-main.js": "/WRLandingP/static/js/runtime-main.34510c69.js",
     "runtime-main.js.map": "/WRLandingP/static/js/runtime-main.34510c69.js.map",
-    "static/js/2.074f42b3.chunk.js": "/WRLandingP/static/js/2.074f42b3.chunk.js",
-    "static/js/2.074f42b3.chunk.js.map": "/WRLandingP/static/js/2.074f42b3.chunk.js.map",
+    "static/js/2.7b0d5f2a.chunk.js": "/WRLandingP/static/js/2.7b0d5f2a.chunk.js",
+    "static/js/2.7b0d5f2a.chunk.js.map": "/WRLandingP/static/js/2.7b0d5f2a.chunk.js.map",
     "index.html": "/WRLandingP/index.html",
     "static/css/main.71e0323a.chunk.css.map": "/WRLandingP/static/css/main.71e0323a.chunk.css.map",
-    "static/js/2.074f42b3.chunk.js.LICENSE.txt": "/WRLandingP/static/js/2.074f42b3.chunk.js.LICENSE.txt",
+    "static/js/2.7b0d5f2a.chunk.js.LICENSE.txt": "/WRLandingP/static/js/2.7b0d5f2a.chunk.js.LICENSE.txt",
     "static/media/appstore2.8c4986ee.svg": "/WRLandingP/static/media/appstore2.8c4986ee.svg",
     "static/media/level1.c1c79e2c.png": "/WRLandingP/static/media/level1.c1c79e2c.png",
     "static/media/level2.c133970a.png": "/WRLandingP/static/media/level2.c133970a.png",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.34510c69.js",
-    "static/js/2.074f42b3.chunk.js",
+    "static/js/2.7b0d5f2a.chunk.js",
     "static/css/main.71e0323a.chunk.css",
-    "static/js/main.5984dbce.chunk.js"
+    "static/js/main.c3188315.chunk.js"
   ]
 }
