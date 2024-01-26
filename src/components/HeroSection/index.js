@@ -56,6 +56,7 @@ const HeroSection = () => {
           autoPlay
           loop={true}
           muted
+          playsInline 
           id="heroVideo"
           src={videoSrc}
           type="video/mp4"
