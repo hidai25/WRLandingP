@@ -53,21 +53,22 @@ const Navbar = ({ toggle }) => {
                                     offset={-80}>The Game</NavLinks>
                             </NavItem>
                             <NavItem>
-                                <NavLinks to="services"
+                                <NavLinks to="about"
                                     smooth={true}
                                     duration={500}
                                     spy={true}
                                     exact='true'
                                     offset={-80}>Levels</NavLinks>
                             </NavItem>
-														<NavItem>
-                                <NavLinks to="about"
+                            <NavItem>
+                                <NavLinks to="services"
                                     smooth={true}
                                     duration={500}
                                     spy={true}
                                     exact='true'
                                     offset={-80}>Trailer</NavLinks>
                             </NavItem>
+														
                             <NavItem>
                                 <NavLinks to="contact"
                                     smooth={true}

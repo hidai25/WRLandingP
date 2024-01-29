@@ -20,10 +20,10 @@ const Sidebar = ({isOpen, toggle}) => {
                     <SidebarLink to='discover' onClick={toggle}>
                     The Game 
                     </SidebarLink>
-                    <SidebarLink to='about' onClick={toggle}>
+                    <SidebarLink to='services' onClick={toggle}>
                     Levels
                     </SidebarLink>
-                    <SidebarLink to='services' onClick={toggle}>
+                    <SidebarLink to='about' onClick={toggle}>
                         Trailer
                     </SidebarLink>
                     <SidebarLink to='contact' onClick={toggle}>
