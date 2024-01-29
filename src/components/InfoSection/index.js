@@ -63,7 +63,7 @@ const InfoSection = ({
                     <Column2>
                         <ImgWrap>
                             {video ? 
-                                (<video autoPlay loop muted style={{ width: '100%' }}>
+                                (<video autoPlay loop muted playsInline style={{ width: '100%' }}>
                                     <source src={video} type="video/mp4" />
                                 </video>) : 
                                 (<Img src={img} alt={alt} />)
